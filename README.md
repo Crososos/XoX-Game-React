@@ -1,4 +1,4 @@
-React'ın temel bileşenleri oluşturulmuştur. 
+React'ın temel bileşenleri oluşturulmuştur.
 
 Demo Link : https://65b0f00f489c8974cf2fb827--sunny-cactus-162067.netlify.app/
 
